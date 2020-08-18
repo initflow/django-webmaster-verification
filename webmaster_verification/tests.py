@@ -1,4 +1,4 @@
-from django.conf import settings
+from webmaster_verification import settings
 from django.core.urlresolvers import reverse
 from django.test import TestCase
 from django.test.client import Client
